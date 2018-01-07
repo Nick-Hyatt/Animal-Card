@@ -1,0 +1,62 @@
+/* add your CSS here */
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    margin:0px;
+    padding:0px;
+    background-color:#eee;
+}
+
+#container {
+    border:thin solid #555;
+    width:350px;
+    margin:auto;
+    margin-top:10px;
+    padding-top:10px;
+    border-radius:5px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.title-background {
+    background-color:#ddd; 
+    border-radius:5px; 
+    border:thin solid #555;
+    width:300px; 
+    height:35px; 
+    margin:auto; 
+    padding-top:0px;
+}
+
+h3{
+    text-align:center; 
+    text-transform:uppercase; 
+    margin:auto;
+    padding-top:7px;
+}
+
+#text-block {
+    border:thin solid #555;
+    background-color:#fff;
+    border-radius:5px;
+    padding:10px 10px 20px 10px;
+    width:280px;
+    margin:auto;
+    margin-top:10px;
+    margin-bottom:15px;
+}
+
+.cat-image {
+    margin:auto;
+    text-align:center; 
+    padding-left:25px; 
+    padding-top:10px;
+    border-radius:5px;
+}
+
+.bold {
+    font-weight:bold;
+}
+
+ul {list-style-type: none;
+margin-left:0px;
+padding-left:0px;}
